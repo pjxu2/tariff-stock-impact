@@ -1,9 +1,12 @@
+from transformers import AutoTokenizer, AutoModel
 import torch
-import pandas as pd
-import numpy as np
-import csv
 
-with open('tariff_news_headlines.csv', newline='') as headlines:
-    reader = csv.reader(headlines)
-    for row in reader:
-        
+
+tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
+model = AutoModel.from_pretrained("ProsusAI/finbert")
+
+def get_embedding(text):
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+    with torch.no_grad():
+        outputs = model(**inputs)
+    return outputs.last_hidden_state[:, 0, :].squeeze().numpy()  # CLS token, shape (768,)
