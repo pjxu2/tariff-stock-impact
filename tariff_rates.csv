@@ -1,0 +1,29 @@
+date,country,product_category,tariff_rate_pct,announcement_source,headline,url
+2018-03-08,Global,Steel,25.0,Section 232,Trump signs 25% steel tariffs under Section 232,
+2018-03-08,Global,Aluminum,10.0,Section 232,Trump signs 10% aluminum tariffs under Section 232,
+2018-07-06,China,Tech/Industrial,25.0,Section 301,US imposes 25% tariffs on $34B of Chinese tech goods,
+2019-09-01,China,Consumer Goods,15.0,Section 301,New 15% tariffs on Chinese consumer goods take effect,
+2020-01-15,China,Phase 1 Deal,7.5,Phase 1 Agreement,US reduces China tariffs to 7.5% under Phase 1 trade deal,
+2022-10-07,China,Tech,25.0,Export Controls,US expands chip export controls and tech tariffs on China,
+2024-05-14,China,EVs,100.0,Executive Order,Biden raises tariffs on Chinese EVs to 100%,
+2024-05-14,China,Tech,50.0,Executive Order,Biden raises tariffs on Chinese solar cells and chips to 50%,
+2025-02-01,China,All Goods,10.0,Executive Order,Trump adds blanket 10% tariff on all Chinese imports,
+2025-03-04,China,All Goods,20.0,Executive Order,Trump raises China tariffs to 20% cumulative,
+2025-03-04,Canada,All Goods,25.0,Executive Order,Trump imposes 25% tariffs on Canadian imports,
+2025-03-04,Mexico,All Goods,25.0,Executive Order,Trump imposes 25% tariffs on Mexican imports,
+2025-04-02,Global,All Goods,10.0,Liberation Day,Liberation Day: Trump announces 10% baseline tariff on all imports,
+2025-04-09,Global,All Goods,90.0,90-day Pause,Trump pauses reciprocal tariffs for 90 days for most countries,
+2025-04-09,China,All Goods,145.0,Escalation,US raises tariffs on China to 145% after retaliation,
+2026-03-24,Canada,EVs,1.0,Electrek,BYD plans 20 Canadian dealerships within a year as 6.1% tariff deal opens the floodgates,http://electrek.co/2026/03/24/byd-plans-20-canadian-dealerships-toronto-first/
+2026-03-31,India,General,5.0,The Times of India,US tariffs drag India apparel export growth to modest 1.5%: ICRA,https://economictimes.indiatimes.com/news/economy/foreign-trade/us-tariffs-drag-india-apparel-export-growth-to-modest-1-5-icra/articleshow/129930225.cms
+2026-04-02,EU,Steel,100.0,New York Post,Trump celebrates ‘Liberation Day’ with new tariffs on pharmaceuticals and metals,https://nypost.com/2026/04/02/us-news/trump-celebrates-liberation-day-with-new-tariffs-on-pharmaceuticals-and-metals/
+2026-04-02,Global,Pharma,100.0,The Boston Globe,Trump sets 100% drug tariffs on companies that haven’t lowered prices - The Boston Globe,https://www.bostonglobe.com/2026/04/02/business/trump-sets-100-drug-tariffs-companies-that-havent-lowered-prices/
+2026-04-03,Global,Pharma,100.0,The Irish Times,Trump announces 100% tariff on some patented medicines,https://www.irishtimes.com/business/economy/2026/04/03/trump-announces-100-tariff-on-some-patented-medicines/
+2026-04-03,EU,Pharma,100.0,The Times of India,Trump unveils 100% tariff on some patented drugs on 'Liberation Day' anniversary,https://economictimes.indiatimes.com/news/international/global-trends/trump-unveils-100-tariff-on-some-patented-drugs-on-liberation-day-anniversary/articleshow/129991981.cms
+2026-04-06,India,Pharma,100.0,The Times of India,"Trump tariffs hit patented drugs: Jefferies, Nomura explain impact on pharma stocks",https://economictimes.indiatimes.com/markets/stocks/news/trump-tariffs-hit-patented-drugs-jefferies-nomura-explain-impact-on-pharma-stocks/articleshow/130051187.cms
+2026-04-08,Global,General,50.0,Al Jazeera English,Trump threatens 50% tariffs on countries that supply Iran with weapons,https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons
+2026-04-10,Global,General,100.0,The Punch,Ecuador to hit Colombia with 100% tariffs as dispute intensifies,https://punchng.com/ecuador-to-hit-colombia-with-100-tariffs-as-dispute-intensifies/
+2026-04-10,Global,General,10.0,The Times of India,US trade court weighs legality of Trump 10% global tariff,https://economictimes.indiatimes.com/news/international/world-news/us-trade-court-weighs-legality-of-trump-10-global-tariff/articleshow/130166684.cms
+2026-04-11,Global,Consumer Goods,50.0,Naturalnews.com,Trump Threatens 50% Tariffs on Nations Supplying Weapons to Iran,https://www.naturalnews.com/2026-04-11-trump-threatens-tariffs-on-nations-supplying-weapons-iran.html
+2026-04-11,India,Consumer Goods,18.0,Fair Observer,Deal Under Pressure: What India Really Gains from the Trade Agreement with the US,https://www.fairobserver.com/economics/deal-under-pressure-what-india-really-gains-from-the-trade-agreement-with-the-us/
+2026-04-12,China,Consumer Goods,50.0,Vanguard,Trump threatens China with 50% tariff if it helps Iran,https://www.vanguardngr.com/2026/04/trump-threatens-china-with-50-tariff-if-it-helps-iran/
